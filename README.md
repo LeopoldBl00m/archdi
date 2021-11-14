@@ -1,5 +1,7 @@
 # archdi
 
+This was orginally made by MatMoul, but I forked it so that I could make a fork just for me :D.
+
 Just a simple bash script wizard to install and configure a full personal computer with Arch Linux.
 
 First, install Arch Linux with the official media and optionally with archfi.<br />
