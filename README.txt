@@ -2,6 +2,8 @@
 
 Just a simple bash script wizard to install and configure a full personal computer with Arch Linux.
 
+This was originally made my MatMoul but I forked it to make a version of it just for myself :).
+
 First, install Arch Linux with the official media and optionally with archfi.
 Look at archfi project to start your arch linux installation : https://github.com/MatMoul/archfi
 
